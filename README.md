@@ -6,10 +6,10 @@ Batch Textures Conversion
 
 Intro
 -----
-check out the original post from Juraj Tomori at https://github.com/jtomori
+check out the original post by Juraj Tomori at https://github.com/jtomori
 
 Support for python 3 has been added and tested in houdini 18.5.351
- 
+
 This tool helps with pre-processing of textures for offline renderers. It can be used from Houdini, Maya, Nuke or as a standalone application.
 
 Renderers usually convert common texture formats *(jpg, png, tga..)* into more render friendly mip-mapped formats *(rat, rs, tx..)* which can be a time consuming process. Mainly if the renderer discards the converted texture afterwards and this process gets repeated many times.
@@ -126,5 +126,4 @@ A few notes
 
 Contributing
 ------------
-messege from the orginal author: Juraj Tomori
-Feel free to contribute to this project by creating pull requests or by [buying me a beer :)](https://www.paypal.me/jurajtomori)
+messege from the orginal author: Juraj Tomori Feel free to contribute to this project by creating pull requests or by [buying me a beer :)](https://www.paypal.me/jurajtomori)
